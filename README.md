@@ -14,7 +14,7 @@ Victor Augusto da Silva Lima
 
 ## Diagrama de Sequência
 
-![Sequence diagram!](/PI2024/blob/main/sequence.jpeg "sequence diagram image")
+![Sequence diagram!](/sequence diagram image.jpeg "sequence diagram image")
 
 ## Telas Prototipadas
 
