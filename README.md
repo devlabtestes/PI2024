@@ -1,15 +1,15 @@
 ## PROJETO INTEGRADOR: DESENVOLVIMENTO ESTRUTURADO DE SISTEMAS
 
 
-.Eduardo Oliveira Paulino
+Eduardo Oliveira Paulino
 
-.Fernando Amandia Marçal Gomes
+Fernando Amandia Marçal Gomes
 
-.João Wanderley da Silva Neto
+João Wanderley da Silva Neto
 
-.José Liderlan Santos Lira
+José Liderlan Santos Lira
 
-.Victor Augusto da Silva Lima
+Victor Augusto da Silva Lima
 
 
 ## Diagrama de Sequência
