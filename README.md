@@ -1,9 +1,9 @@
 ## PROJETO INTEGRADOR: DESENVOLVIMENTO ESTRUTURADO DE SISTEMAS
 
 
-Eduardo Oliveira Paulino
+Eduardo Araujo Paulino
 
-Fernando Amandia Marçal Gomes
+Fernando Amandia Marçal Rodrigues
 
 João Wanderley da Silva Neto
 
